@@ -1,4 +1,4 @@
-package com.google.samples.apps.nowinandroid
+package com.apps.longhrk.apps
 
 import com.android.build.api.dsl.ApplicationExtension
 import com.android.build.api.dsl.ApplicationProductFlavor

@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-import com.google.samples.apps.nowinandroid.configureFlavors
+import com.apps.longhrk.apps.configureFlavors
 
 plugins {
     alias(libs.plugins.baselineprofile)

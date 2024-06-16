@@ -14,7 +14,7 @@
  *   limitations under the License.
  */
 
-package com.google.samples.apps.nowinandroid
+package com.apps.longhrk.apps
 
 import com.android.build.api.artifact.SingleArtifact
 import com.android.build.api.variant.ApplicationAndroidComponentsExtension
